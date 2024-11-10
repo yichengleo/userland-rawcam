@@ -1,0 +1,3 @@
+./buildme: line 15: cmake: command not found
+make: *** No targets specified and no makefile found.  Stop.
+make: *** No rule to make target 'install'.  Stop.
